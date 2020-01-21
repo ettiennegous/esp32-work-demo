@@ -1,7 +1,7 @@
 # esp32-work-demo
 A demo of basic ESP32 usage for a lunch and learn session.  
 See branches for the progressive code and wiring diagrams  
-Demo 1 - Basic flashing LED example (Digital Output)  
+[Demo 1](/tree/demo1) - Basic flashing LED example (Digital Output)  
 Demo 2 - Add button to toggle LED (Digital Input)  
 Demo 3 - Use LDR to detect light and turn it on and off (Analog Input)  
 
