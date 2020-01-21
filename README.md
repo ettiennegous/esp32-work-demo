@@ -6,6 +6,7 @@ A demo of basic ESP32 usage for a lunch and learn
 [Comparison](https://makeradvisor.com/esp32-vs-esp8266/)
 [Pinout diagram](https://components101.com/sites/default/files/component_pin/ESP32-Pinout.png)
 Discuss 
+* [Electrical current](https://dronesrate.com/wp-content/uploads/2018/06/Drone-Infographics-ELECTRICITY-A-visual-cheat-sheet-about-electrical-physics-containing-the-mo.jpg)
 * GPIO pins
 * Onboard LED
 * [Fritzing](https://fritzing.org/home/)
