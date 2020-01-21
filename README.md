@@ -29,6 +29,7 @@ See branches for the progressive code and wiring diagrams
 
 
 # Wiring Diagram
+```
                               +------------+
                               |   ESP32    |
                               |            |
@@ -47,5 +48,4 @@ See branches for the progressive code and wiring diagrams
 |                                              |
 |                                              |
 +----------------------------------------------+
-
-
+```
