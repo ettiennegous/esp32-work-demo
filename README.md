@@ -20,3 +20,14 @@ Discuss
 https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
 
 
+# Wiring Diagram
+                    +-----------+
+                    |   ESP32   |
+                    |           |
+ +-----+            |           |
+ |    A+---100Ω-----+D27        |
+ |LED  |            |           |
+ |    C+------------+GND        |
+ +-----+            |           |
+                    +-----------+
+
