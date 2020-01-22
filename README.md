@@ -51,3 +51,13 @@ See branches for the progressive code and wiring diagrams
                              |             |
                              +-------------+
 ```
+# Systems Architecture
+```
++-----------+      +------------+      +-------------+
+|           +----->+Webhook     +----->+Sheet        |
+|           |      |            |      |             |
+|   ESP32   |      |   IFTT     |      | Google Drive|
+|           |      |            |      |             |
+|           |      |            |      |             |
++-----------+      +------------+      +-------------+
+```
