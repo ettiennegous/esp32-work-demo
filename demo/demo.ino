@@ -1,6 +1,6 @@
 #define LED_PIN 27 /*ESP 32 D27 LHS Middle*/
 #define BTN_PIN 26 /* ESP 32 D26 LHS Middle*/
-#define LDR_PIN 25 /* ESP 32 D25 LHS Middle*/
+#define LDR_PIN 33 /* ESP 32 D25 LHS Middle*/
 
 bool lightOn = false;
 
